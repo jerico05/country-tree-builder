@@ -1,0 +1,436 @@
+REGION,PREFECTURE,COMMUNE,CANTON,LOCALITE,parent_id,division_id,division_slug
+Maritime,,,,,,RG-G6CIUI,maritime
+Plateaux,,,,,,RG-TCNZ6E,plateaux
+Kara,,,,,,RG-XQJ3HX,kara
+Centrale,,,,,,RG-ZWGIPY,centrale
+Savanes,,,,,,RG-D7WMRY,savanes
+Maritime,Agoe-Nyivé,,,,RG-G6CIUI,PR-5F4PAD,maritime.agoe-nyive
+Plateaux,Agou,,,,RG-TCNZ6E,PR-GYNGIW,plateaux.agou
+Plateaux,Akebou,,,,RG-TCNZ6E,PR-5MJ3LQ,plateaux.akebou
+Plateaux,Amou,,,,RG-TCNZ6E,PR-M3P4FP,plateaux.amou
+Plateaux,Anié,,,,RG-TCNZ6E,PR-DVYRZD,plateaux.anie
+Kara,Assoli,,,,RG-XQJ3HX,PR-CSX262,kara.assoli
+Maritime,Avé,,,,RG-G6CIUI,PR-4MEDX6,maritime.ave
+Maritime,Bas-Mono,,,,RG-G6CIUI,PR-E5XYGO,maritime.bas-mono
+Kara,Bassar,,,,RG-XQJ3HX,PR-R5UDMC,kara.bassar
+Kara,Binah,,,,RG-XQJ3HX,PR-2BQRGY,kara.binah
+Centrale,Blitta,,,,RG-ZWGIPY,PR-ENJSZZ,centrale.blitta
+Savanes,Cinkassé,,,,RG-D7WMRY,PR-AHGQER,savanes.cinkasse
+Kara,Dankpen,,,,RG-XQJ3HX,PR-D6C3P6,kara.dankpen
+Savanes,Kpendjal,,,,RG-D7WMRY,PR-E7KCBT,savanes.kpendjal
+Savanes,Kpendjal Ouest,,,,RG-D7WMRY,PR-UJMRWR,savanes.kpendjal-ouest
+Maritime,Lacs,,,,RG-G6CIUI,PR-WSAT5R,maritime.lacs
+Centrale,Mo,,,,RG-ZWGIPY,PR-LMTKIT,centrale.mo
+Plateaux,Moyen-Mono,,,,RG-TCNZ6E,PR-3S65LJ,plateaux.moyen-mono
+Plateaux,Ogou,,,,RG-TCNZ6E,PR-J56DNG,plateaux.ogou
+Savanes,Oti,,,,RG-D7WMRY,PR-TL4VWU,savanes.oti
+Maritime,Agoe-Nyivé,Agoe-Nyivé 2,,,PR-5F4PAD,CM-3DUSYO,maritime.agoe-nyive.agoe-nyive-2
+Maritime,Agoe-Nyivé,Agoe-Nyivé 3,,,PR-5F4PAD,CM-3P7SHY,maritime.agoe-nyive.agoe-nyive-3
+Maritime,Agoe-Nyivé,Agoe-Nyivé 5,,,PR-5F4PAD,CM-3C4KIT,maritime.agoe-nyive.agoe-nyive-5
+Plateaux,Agou,Agou 1,,,PR-GYNGIW,CM-N22ED3,plateaux.agou.agou-1
+Plateaux,Agou,Agou 2,,,PR-GYNGIW,CM-7N5O3D,plateaux.agou.agou-2
+Plateaux,Akebou,Akebou 1,,,PR-5MJ3LQ,CM-RMDGSO,plateaux.akebou.akebou-1
+Plateaux,Akebou,Akebou 2,,,PR-5MJ3LQ,CM-OIRSL3,plateaux.akebou.akebou-2
+Plateaux,Amou,Amou 1,,,PR-M3P4FP,CM-PLIW4Y,plateaux.amou.amou-1
+Plateaux,Amou,Amou 2,,,PR-M3P4FP,CM-ZMHJV6,plateaux.amou.amou-2
+Plateaux,Amou,Amou 3,,,PR-M3P4FP,CM-C64EX5,plateaux.amou.amou-3
+Plateaux,Anié,Anié 1,,,PR-DVYRZD,CM-R6ILVK,plateaux.anie.anie-1
+Plateaux,Anié,Anié 2,,,PR-DVYRZD,CM-JGSM2E,plateaux.anie.anie-2
+Kara,Assoli,Assoli 1,,,PR-CSX262,CM-HOGLWN,kara.assoli.assoli-1
+Kara,Assoli,Assoli 2,,,PR-CSX262,CM-AREXOD,kara.assoli.assoli-2
+Kara,Assoli,Assoli 3,,,PR-CSX262,CM-QQQFFP,kara.assoli.assoli-3
+Maritime,Avé,Avé 1,,,PR-4MEDX6,CM-T5XFJK,maritime.ave.ave-1
+Maritime,Avé,Avé 2,,,PR-4MEDX6,CM-2RLKG6,maritime.ave.ave-2
+Maritime,Bas-Mono,Bas-Mono 1,,,PR-E5XYGO,CM-WMN42U,maritime.bas-mono.bas-mono-1
+Maritime,Bas-Mono,Bas-Mono 2,,,PR-E5XYGO,CM-6RWKHG,maritime.bas-mono.bas-mono-2
+Kara,Bassar,Bassar 1,,,PR-R5UDMC,CM-BWEEDU,kara.bassar.bassar-1
+Kara,Bassar,Bassar 2,,,PR-R5UDMC,CM-7OPYTQ,kara.bassar.bassar-2
+Kara,Bassar,Bassar 3,,,PR-R5UDMC,CM-HKMYJ4,kara.bassar.bassar-3
+Kara,Bassar,Bassar 4,,,PR-R5UDMC,CM-LVXNVA,kara.bassar.bassar-4
+Kara,Binah,Binah 1,,,PR-2BQRGY,CM-CJS5M6,kara.binah.binah-1
+Kara,Binah,Binah 2,,,PR-2BQRGY,CM-K3MA6D,kara.binah.binah-2
+Centrale,Blitta,Blitta 1,,,PR-ENJSZZ,CM-7A47RU,centrale.blitta.blitta-1
+Maritime,Golfe,Golfe 4,,,PR-D2R6RC,CM-3ARXBY,maritime.golfe.golfe-4
+Maritime,Golfe,Golfe 5,,,PR-D2R6RC,CM-S2IPUE,maritime.golfe.golfe-5
+Maritime,Golfe,Golfe 6,,,PR-D2R6RC,CM-D3ZYY5,maritime.golfe.golfe-6
+Maritime,Golfe,Golfe 7,,,PR-D2R6RC,CM-NCAHS2,maritime.golfe.golfe-7
+Plateaux,Haho,Haho 1,,,PR-UE4JX5,CM-Z3O2II,plateaux.haho.haho-1
+Plateaux,Haho,Haho 2,,,PR-UE4JX5,CM-CFPPCC,plateaux.haho.haho-2
+Plateaux,Haho,Haho 3,,,PR-UE4JX5,CM-YY7HXF,plateaux.haho.haho-3
+Plateaux,Haho,Haho 4,,,PR-UE4JX5,CM-ILIFPU,plateaux.haho.haho-4
+Kara,Keran,Kéran 1,,,PR-FLPKOC,CM-OYNVBJ,kara.keran.keran-1
+Savanes,Kpendjal,Kpendjal 1,,,PR-E7KCBT,CM-ELD7HT,savanes.kpendjal.kpendjal-1
+Savanes,Kpendjal,Kpendjal 2,,,PR-E7KCBT,CM-H7PNI7,savanes.kpendjal.kpendjal-2
+Savanes,Kpendjal Ouest,Kpendjal Ouest 1,,,PR-UJMRWR,CM-RFBSHJ,savanes.kpendjal-ouest.kpendjal-ouest-1
+Savanes,Kpendjal Ouest,Kpendjal Ouest 2,,,PR-UJMRWR,CM-VRKBFF,savanes.kpendjal-ouest.kpendjal-ouest-2
+Maritime,Lacs,Lacs 1,,,PR-WSAT5R,CM-2VLYG4,maritime.lacs.lacs-1
+Maritime,Lacs,Lacs 2,,,PR-WSAT5R,CM-5NPZ5W,maritime.lacs.lacs-2
+Maritime,Lacs,Lacs 3,,,PR-WSAT5R,CM-6G7CM5,maritime.lacs.lacs-3
+Maritime,Lacs,Lacs 4,,,PR-WSAT5R,CM-IRTSQW,maritime.lacs.lacs-4
+Centrale,Mo,Mo 1,,,PR-LMTKIT,CM-AP2LJI,centrale.mo.mo-1
+Centrale,Mo,Mo 2,,,PR-LMTKIT,CM-GOXN6Q,centrale.mo.mo-2
+Plateaux,Moyen-Mono,Moyen-Mono 1,,,PR-3S65LJ,CM-Q5NP2H,plateaux.moyen-mono.moyen-mono-1
+Plateaux,Moyen-Mono,Moyen-Mono 2,,,PR-3S65LJ,CM-27SNAQ,plateaux.moyen-mono.moyen-mono-2
+Plateaux,Ogou,Ogou 1,,,PR-J56DNG,CM-LSKHDM,plateaux.ogou.ogou-1
+Plateaux,Ogou,Ogou 2,,,PR-J56DNG,CM-R44VWB,plateaux.ogou.ogou-2
+Plateaux,Ogou,Ogou 3,,,PR-J56DNG,CM-EJKSM2,plateaux.ogou.ogou-3
+Plateaux,Ogou,Ogou 4,,,PR-J56DNG,CM-PST5N2,plateaux.ogou.ogou-4
+Savanes,Oti,Oti 1,,,PR-TL4VWU,CM-PD3HBY,savanes.oti.oti-1
+Savanes,Oti,Oti 2,,,PR-TL4VWU,CM-GUX6RX,savanes.oti.oti-2
+Savanes,Oti Sud,Oti Sud 1,,,PR-3NLYBV,CM-JFBB3E,savanes.oti-sud.oti-sud-1
+Savanes,Oti Sud,Oti Sud 2,,,PR-3NLYBV,CM-ZBWTXH,savanes.oti-sud.oti-sud-2
+Centrale,Sotouboua,Sotouboua 1,,,PR-THBIQJ,CM-YBUFMO,centrale.sotouboua.sotouboua-1
+Centrale,Sotouboua,Sotouboua 2,,,PR-THBIQJ,CM-Y42OL6,centrale.sotouboua.sotouboua-2
+Centrale,Sotouboua,Sotouboua 3,,,PR-THBIQJ,CM-DC7DNS,centrale.sotouboua.sotouboua-3
+Savanes,Tandjoare,Tandjoare 1,,,PR-HYTJ5X,CM-FXLK7W,savanes.tandjoare.tandjoare-1
+Savanes,Tandjoare,Tandjoare 2,,,PR-HYTJ5X,CM-ZVDEHI,savanes.tandjoare.tandjoare-2
+Maritime,Yoto,Yoto 1,,,PR-WTNQLK,CM-ZUAEI7,maritime.yoto.yoto-1
+Maritime,Yoto,Yoto 2,,,PR-WTNQLK,CM-2QXIC3,maritime.yoto.yoto-2
+Maritime,Yoto,Yoto 3,,,PR-WTNQLK,CM-IPPY3P,maritime.yoto.yoto-3
+Maritime,Zio,Zio 1,,,PR-NCIG2Z,CM-AXRGOA,maritime.zio.zio-1
+Maritime,Zio,Zio 2,,,PR-NCIG2Z,CM-5YHVK6,maritime.zio.zio-2
+Maritime,Zio,Zio 3,,,PR-NCIG2Z,CM-45OAAE,maritime.zio.zio-3
+Maritime,Zio,Zio 4,,,PR-NCIG2Z,CM-FQSC6B,maritime.zio.zio-4
+Maritime,Agoe-Nyivé,Agoe-Nyivé 1,Agoe-Nyivé,,CM-NDR6FH,CC-TIAZPC,maritime.agoe-nyive.agoe-nyive-1.agoe-nyive
+Maritime,Agoe-Nyivé,Agoe-Nyivé 4,Togblé,,CM-GUUBLL,CC-S27XYF,maritime.agoe-nyive.agoe-nyive-4.togble
+Maritime,Agoe-Nyivé,Agoe-Nyivé 6,Adétikopé,,CM-VFYDYY,CC-YHFFEB,maritime.agoe-nyive.agoe-nyive-6.adetikope
+Maritime,Agoe-Nyivé,Agoe-Nyivé 2,Légbassito,,CM-3DUSYO,CC-SDUDWR,maritime.agoe-nyive.agoe-nyive-2.legbassito
+Maritime,Agoe-Nyivé,Agoe-Nyivé 3,Vakpossito,,CM-3P7SHY,CC-B46HOO,maritime.agoe-nyive.agoe-nyive-3.vakpossito
+Maritime,Agoe-Nyivé,Agoe-Nyivé 5,Zanguéra,,CM-3C4KIT,CC-JL6UEG,maritime.agoe-nyive.agoe-nyive-5.zanguera
+Plateaux,Agou,Agou 1,Agou-Akplolo,,CM-N22ED3,CC-B37LIC,plateaux.agou.agou-1.agou-akplolo
+Plateaux,Agou,Agou 1,Agou-Akpolo,,CM-N22ED3,CC-ZCF52Y,plateaux.agou.agou-1.agou-akpolo
+Plateaux,Agou,Agou 1,Agou-Atigbé,,CM-N22ED3,CC-EJ53ZZ,plateaux.agou.agou-1.agou-atigbe
+Plateaux,Agou,Agou 1,Agou-Iboé,,CM-N22ED3,CC-7KFJK3,plateaux.agou.agou-1.agou-iboe
+Plateaux,Agou,Agou 1,Agou-Kébo,,CM-N22ED3,CC-G4XG4Z,plateaux.agou.agou-1.agou-kebo
+Plateaux,Agou,Agou 1,Agou-Nyogbo,,CM-N22ED3,CC-TL5R73,plateaux.agou.agou-1.agou-nyogbo
+Plateaux,Agou,Agou 1,Agou-Nyogbo-Agbetiko,,CM-N22ED3,CC-5N5DH7,plateaux.agou.agou-1.agou-nyogbo-agbetiko
+Plateaux,Agou,Agou 1,Agou-Tavié,,CM-N22ED3,CC-KDHVZT,plateaux.agou.agou-1.agou-tavie
+Plateaux,Agou,Agou 1,Assahoun-Fiagbé,,CM-N22ED3,CC-BHT5D6,plateaux.agou.agou-1.assahoun-fiagbe
+Plateaux,Agou,Agou 1,Gadja,,CM-N22ED3,CC-OJ5ZGT,plateaux.agou.agou-1.gadja
+Plateaux,Agou,Agou 1,Kati,,CM-N22ED3,CC-V5ZNLU,plateaux.agou.agou-1.kati
+Plateaux,Agou,Agou 2,Agotimé-Nord,,CM-7N5O3D,CC-25LSNR,plateaux.agou.agou-2.agotime-nord
+Plateaux,Agou,Agou 2,Agotimé-sud-Adzakpa,,CM-7N5O3D,CC-C5WWFF,plateaux.agou.agou-2.agotime-sud-adzakpa
+Plateaux,Agou,Agou 2,Amoussoukopé,,CM-7N5O3D,CC-3O4NVD,plateaux.agou.agou-2.amoussoukope
+Plateaux,Akebou,Akebou 1,Djon,,CM-RMDGSO,CC-2LBU2Y,plateaux.akebou.akebou-1.djon
+Plateaux,Akebou,Akebou 1,Gbendé,,CM-RMDGSO,CC-AXIG5O,plateaux.akebou.akebou-1.gbende
+Plateaux,Akebou,Akebou 1,Akébou (Kougnohou),,CM-RMDGSO,CC-PB25L4,plateaux.akebou.akebou-1.akebou-kougnohou
+Plateaux,Akebou,Akebou 1,Vèh,,CM-RMDGSO,CC-FKO35Q,plateaux.akebou.akebou-1.veh
+Plateaux,Akebou,Akebou 1,Yalla,,CM-RMDGSO,CC-FUOKTC,plateaux.akebou.akebou-1.yalla
+Plateaux,Akebou,Akebou 2,Kamina-Akébou,,CM-OIRSL3,CC-D3TUV2,plateaux.akebou.akebou-2.kamina-akebou
+Plateaux,Akebou,Akebou 2,Kpalavé,,CM-OIRSL3,CC-KC34BN,plateaux.akebou.akebou-2.kpalave
+Plateaux,Akebou,Akebou 2,Sérégbéné,,CM-OIRSL3,CC-EBY5MW,plateaux.akebou.akebou-2.seregbene
+Plateaux,Amou,Amou 1,Adiva,,CM-PLIW4Y,CC-NO3F55,plateaux.amou.amou-1.adiva
+Plateaux,Amou,Amou 1,Ouma (Amlamé),,CM-PLIW4Y,CC-VCGEMT,plateaux.amou.amou-1.ouma-amlame
+Plateaux,Amou,Amou 1,Imlé,,CM-PLIW4Y,CC-Y2NZGU,plateaux.amou.amou-1.imle
+Plateaux,Amou,Amou 2,Amou-Oblo,,CM-ZMHJV6,CC-BRFKZL,plateaux.amou.amou-2.amou-oblo
+Plateaux,Amou,Amou 2,Ekpégnon,,CM-ZMHJV6,CC-SAV7ME,plateaux.amou.amou-2.ekpegnon
+Plateaux,Amou,Amou 2,Kpatégan,,CM-ZMHJV6,CC-MTZK6B,plateaux.amou.amou-2.kpategan
+Plateaux,Amou,Amou 2,Sodo,,CM-ZMHJV6,CC-Q4632D,plateaux.amou.amou-2.sodo
+Plateaux,Amou,Amou 3,Avédji-Itadi,,CM-C64EX5,CC-J7WDEC,plateaux.amou.amou-3.avedji-itadi
+Plateaux,Amou,Amou 3,Evou,,CM-C64EX5,CC-EFEUZG,plateaux.amou.amou-3.evou
+Plateaux,Amou,Amou 3,Gamé,,CM-C64EX5,CC-5AZLNE,plateaux.amou.amou-3.game
+Plateaux,Amou,Amou 3,Hihéatro,,CM-C64EX5,CC-VZ5PDR,plateaux.amou.amou-3.hiheatro
+Plateaux,Amou,Amou 3,Okpahoé,,CM-C64EX5,CC-2RDDMT,plateaux.amou.amou-3.okpahoe
+Plateaux,Amou,Amou 3,Ikponou (Akposso-Nord) Otadi,,CM-C64EX5,CC-KNG72B,plateaux.amou.amou-3.ikponou-akposso-nord-otadi
+Plateaux,Amou,Amou 3,Logbo (Témédja),,CM-C64EX5,CC-EZKVQB,plateaux.amou.amou-3.logbo-temedja
+Plateaux,Anié,Anié 1,Anié,,CM-R6ILVK,CC-4D4YSO,plateaux.anie.anie-1.anie
+Plateaux,Anié,Anié 1,Kolo-Kopé,,CM-R6ILVK,CC-7ZMTJJ,plateaux.anie.anie-1.kolo-kope
+Plateaux,Anié,Anié 1,Pallakoko,,CM-R6ILVK,CC-5WRATC,plateaux.anie.anie-1.pallakoko
+Plateaux,Anié,Anié 2,Adogbénou,,CM-JGSM2E,CC-KVMAKR,plateaux.anie.anie-2.adogbenou
+Plateaux,Anié,Anié 2,Atchinédji,,CM-JGSM2E,CC-WWOOEN,plateaux.anie.anie-2.atchinedji
+Plateaux,Anié,Anié 2,Glitto,,CM-JGSM2E,CC-IXSB4P,plateaux.anie.anie-2.glitto
+Kara,Assoli,Assoli 1,Bafilo,,CM-HOGLWN,CC-CNOMAM,kara.assoli.assoli-1.bafilo
+Kara,Assoli,Assoli 1,Bouladè,,CM-HOGLWN,CC-KCFXU3,kara.assoli.assoli-1.boulade
+Kara,Assoli,Assoli 1,Dako,,CM-HOGLWN,CC-HEG7UN,kara.assoli.assoli-1.dako
+Kara,Assoli,Assoli 2,Alédjo,,CM-AREXOD,CC-RVWTMJ,kara.assoli.assoli-2.aledjo
+Kara,Assoli,Assoli 2,Koumondè,,CM-AREXOD,CC-GDTSR6,kara.assoli.assoli-2.koumonde
+Kara,Assoli,Assoli 3,Soudou,,CM-QQQFFP,CC-VCU7XS,kara.assoli.assoli-3.soudou
+Maritime,Avé,Avé 1,Ando,,CM-T5XFJK,CC-3TEPBA,maritime.ave.ave-1.ando
+Maritime,Avé,Avé 1,Assahoun,,CM-T5XFJK,CC-M45Q45,maritime.ave.ave-1.assahoun
+Maritime,Avé,Avé 1,Kévé,,CM-T5XFJK,CC-DJ6RV4,maritime.ave.ave-1.keve
+Maritime,Avé,Avé 1,Tovégan,,CM-T5XFJK,CC-AT6S72,maritime.ave.ave-1.tovegan
+Maritime,Avé,Avé 1,Zolo,,CM-T5XFJK,CC-4AKEDD,maritime.ave.ave-1.zolo
+Maritime,Avé,Avé 2,Aképé,,CM-2RLKG6,CC-2HM6PI,maritime.ave.ave-2.akepe
+Maritime,Avé,Avé 2,Badja,,CM-2RLKG6,CC-NGWFVZ,maritime.ave.ave-2.badja
+Maritime,Avé,Avé 2,Noépé,,CM-2RLKG6,CC-Q2FRIH,maritime.ave.ave-2.noepe
+Maritime,Bas-Mono,Bas-Mono 1,Afagnagan,,CM-WMN42U,CC-OLKERT,maritime.bas-mono.bas-mono-1.afagnagan
+Maritime,Bas-Mono,Bas-Mono 1,Afagnan-Gbléta,,CM-WMN42U,CC-VJ5WHW,maritime.bas-mono.bas-mono-1.afagnan-gbleta
+Kara,Bassar,Bassar 3,Kabou,,CM-HKMYJ4,CC-NWJN7O,kara.bassar.bassar-3.kabou
+Kara,Bassar,Bassar 3,Manga,,CM-HKMYJ4,CC-P6C2L6,kara.bassar.bassar-3.manga
+Kara,Bassar,Bassar 4,Sanda-Afowou,,CM-LVXNVA,CC-TYXSFC,kara.bassar.bassar-4.sanda-afowou
+Kara,Bassar,Bassar 4,Sanda-Kagbanda,,CM-LVXNVA,CC-M2P7L7,kara.bassar.bassar-4.sanda-kagbanda
+Kara,Binah,Binah 1,Boufalé,,CM-CJS5M6,CC-3G6L6W,kara.binah.binah-1.boufale
+Kara,Binah,Binah 1,Lama-Dessi,,CM-CJS5M6,CC-KJAXJ4,kara.binah.binah-1.lama-dessi
+Kara,Binah,Binah 1,Pagouda,,CM-CJS5M6,CC-KJQS2G,kara.binah.binah-1.pagouda
+Kara,Binah,Binah 1,Péssaré,,CM-CJS5M6,CC-J4PFOX,kara.binah.binah-1.pessare
+Kara,Binah,Binah 1,Pitikita,,CM-CJS5M6,CC-SHQYQ2,kara.binah.binah-1.pitikita
+Kara,Binah,Binah 1,Solla,,CM-CJS5M6,CC-DJUJDG,kara.binah.binah-1.solla
+Kara,Binah,Binah 2,Kémérida,,CM-K3MA6D,CC-L32FE6,kara.binah.binah-2.kemerida
+Kara,Binah,Binah 2,Kétao,,CM-K3MA6D,CC-3SRFQ2,kara.binah.binah-2.ketao
+Kara,Binah,Binah 2,Sirka,,CM-K3MA6D,CC-SYKHCJ,kara.binah.binah-2.sirka
+Centrale,Blitta,Blitta 1,Blitta-Gare,,CM-7A47RU,CC-NEG2MX,centrale.blitta.blitta-1.blitta-gare
+Centrale,Blitta,Blitta 1,Blitta-Village,,CM-7A47RU,CC-E72ZW6,centrale.blitta.blitta-1.blitta-village
+Centrale,Blitta,Blitta 1,Doufouli,,CM-7A47RU,CC-HLZXOG,centrale.blitta.blitta-1.doufouli
+Centrale,Blitta,Blitta 1,Pagala-Gare,,CM-7A47RU,CC-U4EBYL,centrale.blitta.blitta-1.pagala-gare
+Centrale,Blitta,Blitta 1,Tchaloudè,,CM-7A47RU,CC-EJODJ2,centrale.blitta.blitta-1.tchaloude
+Centrale,Blitta,Blitta 1,Waragni,,CM-7A47RU,CC-E2URGJ,centrale.blitta.blitta-1.waragni
+Centrale,Blitta,Blitta 1,Yaloumbè,,CM-7A47RU,CC-OHHI6G,centrale.blitta.blitta-1.yaloumbe
+Centrale,Blitta,Blitta 2,Agbandi,,CM-AZMAFF,CC-Q4X6R5,centrale.blitta.blitta-2.agbandi
+Centrale,Blitta,Blitta 2,Koffiti,,CM-AZMAFF,CC-BOK2XN,centrale.blitta.blitta-2.koffiti
+Centrale,Blitta,Blitta 2,Langabou,,CM-AZMAFF,CC-RL6DNT,centrale.blitta.blitta-2.langabou
+Centrale,Blitta,Blitta 2,Tcharé-baou,,CM-AZMAFF,CC-PTL3SL,centrale.blitta.blitta-2.tchare-baou
+Centrale,Blitta,Blitta 3,Atchintsé,,CM-GLZ4WB,CC-ZPUE5Y,centrale.blitta.blitta-3.atchintse
+Centrale,Blitta,Blitta 3,Diguengué,,CM-GLZ4WB,CC-Z73WLX,centrale.blitta.blitta-3.diguengue
+Centrale,Blitta,Blitta 3,Dikpéléou,,CM-GLZ4WB,CC-U2TVJM,centrale.blitta.blitta-3.dikpeleou
+Centrale,Blitta,Blitta 3,Katchenké,,CM-GLZ4WB,CC-FSFWOX,centrale.blitta.blitta-3.katchenke
+Centrale,Blitta,Blitta 3,M'poti,,CM-GLZ4WB,CC-OYAYSC,centrale.blitta.blitta-3.m-poti
+Centrale,Blitta,Blitta 3,Pagala-Village,,CM-GLZ4WB,CC-26NW3H,centrale.blitta.blitta-3.pagala-village
+Centrale,Blitta,Blitta 3,Tchifama,,CM-GLZ4WB,CC-FC6USZ,centrale.blitta.blitta-3.tchifama
+Centrale,Blitta,Blitta 3,Tintchro,,CM-GLZ4WB,CC-FNT5XI,centrale.blitta.blitta-3.tintchro
+Centrale,Blitta,Blitta 3,Welly,,CM-GLZ4WB,CC-PSV3HZ,centrale.blitta.blitta-3.welly
+Centrale,Blitta,Blitta 3,Yégué,,CM-GLZ4WB,CC-5DZN6Q,centrale.blitta.blitta-3.yegue
+Savanes,Cinkassé,Cinkassé 1,Boadé,,CM-LTHNVA,CC-7TPMMF,savanes.cinkasse.cinkasse-1.boade
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,,CM-LTHNVA,CC-KF6BSI,savanes.cinkasse.cinkasse-1.cinkasse
+Savanes,Cinkassé,Cinkassé 1,Noaga,,CM-LTHNVA,CC-EF4YDF,savanes.cinkasse.cinkasse-1.noaga
+Savanes,Cinkassé,Cinkassé 1,Gouloungoussi,,CM-LTHNVA,CC-KIKYWZ,savanes.cinkasse.cinkasse-1.gouloungoussi
+Savanes,Cinkassé,Cinkasse 2,Biankouri,,CM-A2C4EN,CC-7PMUWT,savanes.cinkasse.cinkasse-2.biankouri
+Savanes,Cinkassé,Cinkasse 2,Nadjoundi,,CM-A2C4EN,CC-R2ZHDC,savanes.cinkasse.cinkasse-2.nadjoundi
+Savanes,Cinkassé,Cinkasse 2,Sam-Naba,,CM-A2C4EN,CC-PY7RG5,savanes.cinkasse.cinkasse-2.sam-naba
+Savanes,Cinkassé,Cinkasse 2,Timbou,,CM-A2C4EN,CC-LIXPLM,savanes.cinkasse.cinkasse-2.timbou
+Kara,Dankpen,Dankpen 1,Guérin-Kouka,,CM-ZJYFG4,CC-O2KBUO,kara.dankpen.dankpen-1.guerin-kouka
+Kara,Dankpen,Dankpen 1,Katchamba,,CM-ZJYFG4,CC-P4RDX5,kara.dankpen.dankpen-1.katchamba
+Kara,Dankpen,Dankpen 1,Koulfiékou,,CM-ZJYFG4,CC-723HXB,kara.dankpen.dankpen-1.koulfiekou
+Kara,Dankpen,Dankpen 1,Nampoch,,CM-ZJYFG4,CC-7E5RBL,kara.dankpen.dankpen-1.nampoch
+Kara,Dankpen,Dankpen 2,Koutchitchéou,,CM-ROAHSI,CC-WDZSQF,kara.dankpen.dankpen-2.koutchitcheou
+Kara,Dankpen,Dankpen 2,Namon,,CM-ROAHSI,CC-BIE4UW,kara.dankpen.dankpen-2.namon
+Kara,Dankpen,Dankpen 2,Natchiboré,,CM-ROAHSI,CC-SHB2K6,kara.dankpen.dankpen-2.natchibore
+Kara,Dankpen,Dankpen 2,Natchitikpi,,CM-ROAHSI,CC-OF3KZZ,kara.dankpen.dankpen-2.natchitikpi
+Kara,Dankpen,Dankpen 3,Bapuré,,CM-3U32HC,CC-OCADQ6,kara.dankpen.dankpen-3.bapure
+Kara,Dankpen,Dankpen 3,Kidjaboun,,CM-3U32HC,CC-FSPMYP,kara.dankpen.dankpen-3.kidjaboun
+Kara,Dankpen,Dankpen 3,Nandouta,,CM-3U32HC,CC-23XIJV,kara.dankpen.dankpen-3.nandouta
+Kara,Dankpen,Dankpen 3,Nawaré,,CM-3U32HC,CC-YFYA4D,kara.dankpen.dankpen-3.naware
+Plateaux,Danyi,Danyi 1,Danyi-Atigba,,CM-WRQAEH,CC-M6YAYP,plateaux.danyi.danyi-1.danyi-atigba
+Plateaux,Danyi,Danyi 1,Danyi-Kakpa,,CM-WRQAEH,CC-BIITDD,plateaux.danyi.danyi-1.danyi-kakpa
+Plateaux,Danyi,Danyi 1,Yikpa,,CM-WRQAEH,CC-6GCPKI,plateaux.danyi.danyi-1.yikpa
+Plateaux,Danyi,Danyi 2,Ahlon,,CM-ESMV4E,CC-NPU76R,plateaux.danyi.danyi-2.ahlon
+Plateaux,Danyi,Danyi 2,Danyi-Elavagnon,,CM-ESMV4E,CC-75LVQB,plateaux.danyi.danyi-2.danyi-elavagnon
+Plateaux,Danyi,Danyi 2,Danyi-Kpéto-Evita,,CM-ESMV4E,CC-7YE7SH,plateaux.danyi.danyi-2.danyi-kpeto-evita
+Kara,Doufelgou,Doufelgou 1,Agbandè-Yaka,,CM-FJKAS6,CC-BLJ2YN,kara.doufelgou.doufelgou-1.agbande-yaka
+Kara,Doufelgou,Doufelgou 1,Baga,,CM-FJKAS6,CC-EUVRLU,kara.doufelgou.doufelgou-1.baga
+Kara,Doufelgou,Doufelgou 1,Koka,,CM-FJKAS6,CC-JATPRF,kara.doufelgou.doufelgou-1.koka
+Kara,Doufelgou,Doufelgou 1,Madésséna,,CM-FJKAS6,CC-IYFFAM,kara.doufelgou.doufelgou-1.madessena
+Kara,Doufelgou,Doufelgou 1,Niamtougou,,CM-FJKAS6,CC-QHISVU,kara.doufelgou.doufelgou-1.niamtougou
+Kara,Doufelgou,Doufelgou 1,Pouda,,CM-FJKAS6,CC-DOVRKR,kara.doufelgou.doufelgou-1.pouda
+Kara,Doufelgou,Doufelgou 1,Ténéga,,CM-FJKAS6,CC-TSWYA3,kara.doufelgou.doufelgou-1.tenega
+Kara,Doufelgou,Doufelgou 2,Anima,,CM-2L7OD3,CC-QJT2UT,kara.doufelgou.doufelgou-2.anima
+Kara,Doufelgou,Doufelgou 2,Défalé,,CM-2L7OD3,CC-NQ7ABI,kara.doufelgou.doufelgou-2.defale
+Kara,Doufelgou,Doufelgou 2,Kpaha,,CM-2L7OD3,CC-CPES6T,kara.doufelgou.doufelgou-2.kpaha
+Kara,Doufelgou,Doufelgou 3,Alloum,,CM-33HK6W,CC-LDEPIS,kara.doufelgou.doufelgou-3.alloum
+Kara,Doufelgou,Doufelgou 3,Kadjalla,,CM-33HK6W,CC-W74GC5,kara.doufelgou.doufelgou-3.kadjalla
+Kara,Doufelgou,Doufelgou 3,Léon,,CM-33HK6W,CC-XSQP5X,kara.doufelgou.doufelgou-3.leon
+Kara,Doufelgou,Doufelgou 3,Tchoré,,CM-33HK6W,CC-T2IF3F,kara.doufelgou.doufelgou-3.tchore
+Plateaux,Est-Mono,Est-Mono 1,Elavagnon,,CM-63IGWG,CC-2M7SRC,plateaux.est-mono.est-mono-1.elavagnon
+Plateaux,Est-Mono,Est-Mono 1,Gbadjahè,,CM-63IGWG,CC-FNGWFK,plateaux.est-mono.est-mono-1.gbadjahe
+Plateaux,Est-Mono,Est-Mono 2,Badin-Copé,,CM-MZFFTG,CC-PMLF6T,plateaux.est-mono.est-mono-2.badin-cope
+Plateaux,Est-Mono,Est-Mono 2,Kamina,,CM-MZFFTG,CC-GBB7RT,plateaux.est-mono.est-mono-2.kamina
+Plateaux,Est-Mono,Est-Mono 2,Morétan-Igbériko,,CM-MZFFTG,CC-ANOHZK,plateaux.est-mono.est-mono-2.moretan-igberiko
+Plateaux,Est-Mono,Est-Mono 3,Kpéssi,,CM-5OHU6V,CC-HCPIMV,plateaux.est-mono.est-mono-3.kpessi
+Plateaux,Est-Mono,Est-Mono 3,Nyamassila,,CM-5OHU6V,CC-I3FYSV,plateaux.est-mono.est-mono-3.nyamassila
+Maritime,Golfe,Golfe 1 (Be Est),Bè,,CM-2HAFE5,CC-FWG3GY,maritime.golfe.golfe-1-be-est.be
+Maritime,Golfe,Golfe 2 (Be Centre),Bè,,CM-DN2YVV,CC-6XYWKK,maritime.golfe.golfe-2-be-centre.be
+Maritime,Golfe,Golfe 3 (Be Ouest),Bè,,CM-RRNWC4,CC-WST4SY,maritime.golfe.golfe-3-be-ouest.be
+Maritime,Golfe,Golfe 4,Amoutivé,,CM-3ARXBY,CC-HYMXWU,maritime.golfe.golfe-4.amoutive
+Maritime,Golfe,Golfe 5,Aflao-Gakli,,CM-S2IPUE,CC-7EXACP,maritime.golfe.golfe-5.aflao-gakli
+Maritime,Golfe,Golfe 6,Baguida,,CM-D3ZYY5,CC-R7GTUB,maritime.golfe.golfe-6.baguida
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,,CM-NCAHS2,CC-GXUAKU,maritime.golfe.golfe-7.aflao-sagbado
+Plateaux,Haho,Haho 1,Atsavé,,CM-Z3O2II,CC-DYRD5A,plateaux.haho.haho-1.atsave
+Plateaux,Haho,Haho 1,Dalia,,CM-Z3O2II,CC-V4RXBI,plateaux.haho.haho-1.dalia
+Plateaux,Haho,Haho 1,Notsè,,CM-Z3O2II,CC-IJNB43,plateaux.haho.haho-1.notse
+Plateaux,Haho,Haho 2,Assrama,,CM-CFPPCC,CC-BDGBJ3,plateaux.haho.haho-2.assrama
+Plateaux,Haho,Haho 2,Djéméni,,CM-CFPPCC,CC-UKBPTE,plateaux.haho.haho-2.djemeni
+Plateaux,Haho,Haho 3,Kpédomé,,CM-YY7HXF,CC-A6S3PG,plateaux.haho.haho-3.kpedome
+Plateaux,Haho,Haho 4,Ayito (Kpégnon-Adja),,CM-ILIFPU,CC-BX7I3O,plateaux.haho.haho-4.ayito-kpegnon-adja
+Plateaux,Haho,Haho 4,Wahala,,CM-ILIFPU,CC-YAVOQW,plateaux.haho.haho-4.wahala
+Kara,Keran,Kéran 1,Akponté,,CM-OYNVBJ,CC-T72MGP,kara.keran.keran-1.akponte
+Kara,Keran,Kéran 1,Kanté,,CM-OYNVBJ,CC-Y5B6PX,kara.keran.keran-1.kante
+Kara,Keran,Kéran 1,Pessidè,,CM-OYNVBJ,CC-ERWIAG,kara.keran.keran-1.pesside
+Kara,Keran,Kéran 2,Atalotè,,CM-WYPPNQ,CC-3DGDKJ,kara.keran.keran-2.atalote
+Plateaux,Kloto,Kloto 2,Lavié,,CM-NQPI3U,CC-UDQDDL,plateaux.kloto.kloto-2.lavie
+Plateaux,Kloto,Kloto 2,Lavié-Apédomé,,CM-NQPI3U,CC-XYORNA,plateaux.kloto.kloto-2.lavie-apedome
+Plateaux,Kloto,Kloto 3,Agomé-Tomégbé,,CM-H5E3EU,CC-CMNCLM,plateaux.kloto.kloto-3.agome-tomegbe
+Plateaux,Kloto,Kloto 3,Agomé-Yoh,,CM-H5E3EU,CC-3DHBIW,plateaux.kloto.kloto-3.agome-yoh
+Plateaux,Kloto,Kloto 3,Kuma,,CM-H5E3EU,CC-UTE3PW,plateaux.kloto.kloto-3.kuma
+Kara,Kozah,Kozah 1,Lama,,CM-HCD3LC,CC-ABJVPJ,kara.kozah.kozah-1.lama
+Kara,Kozah,Kozah 1,Landa,,CM-HCD3LC,CC-LZH6QQ,kara.kozah.kozah-1.landa
+Kara,Kozah,Kozah 1,Lassa,,CM-HCD3LC,CC-ESDGIC,kara.kozah.kozah-1.lassa
+Kara,Kozah,Kozah 1,Soumdina,,CM-HCD3LC,CC-3RWC7E,kara.kozah.kozah-1.soumdina
+Kara,Kozah,Kozah 2,Bohou,,CM-N7HJQN,CC-CDVZNG,kara.kozah.kozah-2.bohou
+Kara,Kozah,Kozah 2,Kouméa,,CM-N7HJQN,CC-ZPCNUS,kara.kozah.kozah-2.koumea
+Kara,Kozah,Kozah 2,Pya,,CM-N7HJQN,CC-GIFOLM,kara.kozah.kozah-2.pya
+Kara,Kozah,Kozah 2,Sarakawa,,CM-N7HJQN,CC-P2LJV7,kara.kozah.kozah-2.sarakawa
+Kara,Kozah,Kozah 2,Tcharé,,CM-N7HJQN,CC-TFJN2J,kara.kozah.kozah-2.tchare
+Kara,Kozah,Kozah 2,Tchitchao,,CM-N7HJQN,CC-Z2JQBB,kara.kozah.kozah-2.tchitchao
+Kara,Kozah,Kozah 2,Yadè,,CM-N7HJQN,CC-TF6MNL,kara.kozah.kozah-2.yade
+Kara,Kozah,Kozah 3,Awandjélo,,CM-EKI7OW,CC-55FLD6,kara.kozah.kozah-3.awandjelo
+Kara,Kozah,Kozah 3,Landa-Kpinzindè,,CM-EKI7OW,CC-VAUYBF,kara.kozah.kozah-3.landa-kpinzinde
+Kara,Kozah,Kozah 4,Atchangbadè,,CM-3QNI7P,CC-MNETGE,kara.kozah.kozah-4.atchangbade
+Kara,Kozah,Kozah 4,Djamdè,,CM-3QNI7P,CC-HP57T7,kara.kozah.kozah-4.djamde
+Plateaux,Kpélé,Kpélé 1,Kpélé-Akata,,CM-FON6PF,CC-5H3J7P,plateaux.kpele.kpele-1.kpele-akata
+Plateaux,Kpélé,Kpélé 1,Kpélé-Dawlotu,,CM-FON6PF,CC-O7LOMT,plateaux.kpele.kpele-1.kpele-dawlotu
+Plateaux,Kpélé,Kpélé 1,Kpélé-Govié,,CM-FON6PF,CC-V6IKEC,plateaux.kpele.kpele-1.kpele-govie
+Plateaux,Kpélé,Kpélé 1,Kpélé-Novivé,,CM-FON6PF,CC-QI2VRL,plateaux.kpele.kpele-1.kpele-novive
+Plateaux,Kpélé,Kpélé 2,Kpélé-Goudévé,,CM-L4A45D,CC-ZGNLCZ,plateaux.kpele.kpele-2.kpele-goudeve
+Plateaux,Kpélé,Kpélé 2,Kpélé-Dutoé,,CM-L4A45D,CC-KK7IZS,plateaux.kpele.kpele-2.kpele-dutoe
+Plateaux,Kpélé,Kpélé 2,Kpélé-Gbalédzé,,CM-L4A45D,CC-J7EGZG,plateaux.kpele.kpele-2.kpele-gbaledze
+Plateaux,Kpélé,Kpélé 2,Kpélé-Kamé,,CM-L4A45D,CC-M3QZP7,plateaux.kpele.kpele-2.kpele-kame
+Maritime,Lacs,Lacs 4,Ganavé,,CM-IRTSQW,CC-GI3QTQ,maritime.lacs.lacs-4.ganave
+Centrale,Mo,Mo 1,Boulohou,,CM-AP2LJI,CC-KVYX2T,centrale.mo.mo-1.boulohou
+Centrale,Mo,Mo 1,Djarkpanga,,CM-AP2LJI,CC-K7BZIT,centrale.mo.mo-1.djarkpanga
+Centrale,Mo,Mo 1,Kagningbara,,CM-AP2LJI,CC-UWTMKT,centrale.mo.mo-1.kagningbara
+Centrale,Mo,Mo 2,Saïboudè,,CM-GOXN6Q,CC-2NUISL,centrale.mo.mo-2.saiboude
+Centrale,Mo,Mo 2,Tindjassi,,CM-GOXN6Q,CC-7ILAXA,centrale.mo.mo-2.tindjassi
+Plateaux,Moyen-Mono,Moyen-Mono 1,Ahassomé,,CM-Q5NP2H,CC-KKLFUE,plateaux.moyen-mono.moyen-mono-1.ahassome
+Plateaux,Moyen-Mono,Moyen-Mono 1,Tado,,CM-Q5NP2H,CC-ONVLQZ,plateaux.moyen-mono.moyen-mono-1.tado
+Plateaux,Moyen-Mono,Moyen-Mono 1,Tohoun,,CM-Q5NP2H,CC-HI4JVW,plateaux.moyen-mono.moyen-mono-1.tohoun
+Plateaux,Moyen-Mono,Moyen-Mono 2,Katomé,,CM-27SNAQ,CC-HSWOTK,plateaux.moyen-mono.moyen-mono-2.katome
+Plateaux,Moyen-Mono,Moyen-Mono 2,Kpékplémé,,CM-27SNAQ,CC-2H5O22,plateaux.moyen-mono.moyen-mono-2.kpekpleme
+Plateaux,Moyen-Mono,Moyen-Mono 2,Saligbè,,CM-27SNAQ,CC-FRZRKK,plateaux.moyen-mono.moyen-mono-2.saligbe
+Plateaux,Ogou,Ogou 1,Djama,,CM-LSKHDM,CC-WZ7EAV,plateaux.ogou.ogou-1.djama
+Plateaux,Ogou,Ogou 1,Gnagna,,CM-LSKHDM,CC-KZPY7X,plateaux.ogou.ogou-1.gnagna
+Plateaux,Ogou,Ogou 1,Woudou,,CM-LSKHDM,CC-TK7GJG,plateaux.ogou.ogou-1.woudou
+Plateaux,Ogou,Ogou 2,Akparé,,CM-R44VWB,CC-BPR5T4,plateaux.ogou.ogou-2.akpare
+Plateaux,Ogou,Ogou 2,Datcha,,CM-R44VWB,CC-UOWRL5,plateaux.ogou.ogou-2.datcha
+Plateaux,Ogou,Ogou 2,Katoré,,CM-R44VWB,CC-6NQA3W,plateaux.ogou.ogou-2.katore
+Plateaux,Ogou,Ogou 3,Gléï,,CM-EJKSM2,CC-TPZE3I,plateaux.ogou.ogou-3.glei
+Plateaux,Ogou,Ogou 4,Ountivou,,CM-PST5N2,CC-VTAAA4,plateaux.ogou.ogou-4.ountivou
+Savanes,Oti,Oti 1,Faré,,CM-PD3HBY,CC-QAIX3T,savanes.oti.oti-1.fare
+Savanes,Oti,Oti 1,Mango,,CM-PD3HBY,CC-BON6W4,savanes.oti.oti-1.mango
+Savanes,Oti,Oti 1,Sadori,,CM-PD3HBY,CC-M3BWSZ,savanes.oti.oti-1.sadori
+Savanes,Oti,Oti 2,Barkoissi,,CM-GUX6RX,CC-6R7EY5,savanes.oti.oti-2.barkoissi
+Savanes,Oti,Oti 2,Galangashie,,CM-GUX6RX,CC-NMIFAX,savanes.oti.oti-2.galangashie
+Savanes,Oti,Oti 2,Loko,,CM-GUX6RX,CC-IBC5WE,savanes.oti.oti-2.loko
+Savanes,Oti,Oti 2,Nagbéni,,CM-GUX6RX,CC-NQHZK6,savanes.oti.oti-2.nagbeni
+Savanes,Oti,Oti 2,Tchanaga,,CM-GUX6RX,CC-ZAKP7B,savanes.oti.oti-2.tchanaga
+Savanes,Oti Sud,Oti Sud 1,Gando,,CM-JFBB3E,CC-BNU7BH,savanes.oti-sud.oti-sud-1.gando
+Savanes,Oti Sud,Oti Sud 1,Mogou,,CM-JFBB3E,CC-ERYAK5,savanes.oti-sud.oti-sud-1.mogou
+Savanes,Oti Sud,Oti Sud 1,Sagbiébou,,CM-JFBB3E,CC-GUN6FA,savanes.oti-sud.oti-sud-1.sagbiebou
+Savanes,Oti Sud,Oti Sud 1,Tchamonga,,CM-JFBB3E,CC-WJL2O6,savanes.oti-sud.oti-sud-1.tchamonga
+Savanes,Oti Sud,Oti Sud 2,Koumongou,,CM-ZBWTXH,CC-NZQYFE,savanes.oti-sud.oti-sud-2.koumongou
+Savanes,Oti Sud,Oti Sud 2,Kountoiré,,CM-ZBWTXH,CC-MITNEL,savanes.oti-sud.oti-sud-2.kountoire
+Savanes,Oti Sud,Oti Sud 2,Nali,,CM-ZBWTXH,CC-GPFZIY,savanes.oti-sud.oti-sud-2.nali
+Savanes,Oti Sud,Oti Sud 2,Takpamba,,CM-ZBWTXH,CC-QTKVAN,savanes.oti-sud.oti-sud-2.takpamba
+Centrale,Sotouboua,Sotouboua 1,Kaniamboua,,CM-YBUFMO,CC-4VAAN3,centrale.sotouboua.sotouboua-1.kaniamboua
+Centrale,Sotouboua,Sotouboua 1,Sotouboua,,CM-YBUFMO,CC-PAX5OI,centrale.sotouboua.sotouboua-1.sotouboua
+Centrale,Sotouboua,Sotouboua 1,Tabindè,,CM-YBUFMO,CC-ETBB7G,centrale.sotouboua.sotouboua-1.tabinde
+Centrale,Sotouboua,Sotouboua 2,Adjengre,,CM-Y42OL6,CC-U4HIFD,centrale.sotouboua.sotouboua-2.adjengre
+Centrale,Sotouboua,Sotouboua 2,Aouda,,CM-Y42OL6,CC-6P4ETM,centrale.sotouboua.sotouboua-2.aouda
+Centrale,Sotouboua,Sotouboua 2,Fazao,,CM-Y42OL6,CC-VNJP2L,centrale.sotouboua.sotouboua-2.fazao
+Centrale,Sotouboua,Sotouboua 2,Séssaro,,CM-Y42OL6,CC-GG2IGL,centrale.sotouboua.sotouboua-2.sessaro
+Centrale,Sotouboua,Sotouboua 2,Titigbe,,CM-Y42OL6,CC-ZK7E5A,centrale.sotouboua.sotouboua-2.titigbe
+Centrale,Sotouboua,Sotouboua 3,Bodjondè,,CM-DC7DNS,CC-4EQG7D,centrale.sotouboua.sotouboua-3.bodjonde
+Centrale,Sotouboua,Sotouboua 3,Kazaboua,,CM-DC7DNS,CC-2OA6AS,centrale.sotouboua.sotouboua-3.kazaboua
+Centrale,Sotouboua,Sotouboua 3,Tchebebe,,CM-DC7DNS,CC-KC5VDG,centrale.sotouboua.sotouboua-3.tchebebe
+Savanes,Tandjoare,Tandjoare 1,Bogou,,CM-FXLK7W,CC-JVNXA3,savanes.tandjoare.tandjoare-1.bogou
+Savanes,Tandjoare,Tandjoare 1,Bombouaka,,CM-FXLK7W,CC-BV3FDF,savanes.tandjoare.tandjoare-1.bombouaka
+Savanes,Tandjoare,Tandjoare 1,Boulogou,,CM-FXLK7W,CC-QP56V5,savanes.tandjoare.tandjoare-1.boulogou
+Savanes,Tandjoare,Tandjoare 1,Goundoga,,CM-FXLK7W,CC-337NF2,savanes.tandjoare.tandjoare-1.goundoga
+Centrale,Tchamba,Tchamba 3,Goubi,,CM-AWQVTY,CC-F3XFT3,centrale.tchamba.tchamba-3.goubi
+Centrale,Tchamba,Tchamba 3,Kaboli,,CM-AWQVTY,CC-UZX2H3,centrale.tchamba.tchamba-3.kaboli
+Centrale,Tchaoudjo,Tchaoudjo 1,Kadambara,,CM-26ABF7,CC-5NS3KV,centrale.tchaoudjo.tchaoudjo-1.kadambara
+Centrale,Tchaoudjo,Tchaoudjo 1,Kpangalam,,CM-26ABF7,CC-N56SLF,centrale.tchaoudjo.tchaoudjo-1.kpangalam
+Centrale,Tchaoudjo,Tchaoudjo 1,Kparatao,,CM-26ABF7,CC-IMVICM,centrale.tchaoudjo.tchaoudjo-1.kparatao
+Centrale,Tchaoudjo,Tchaoudjo 1,Komah sokodé,,CM-26ABF7,CC-S5UW4D,centrale.tchaoudjo.tchaoudjo-1.komah-sokode
+Centrale,Tchaoudjo,Tchaoudjo 1,Tchalo,,CM-26ABF7,CC-NW2DKC,centrale.tchaoudjo.tchaoudjo-1.tchalo
+Centrale,Tchaoudjo,Tchaoudjo 2,Lama-Tessi,,CM-2HNRS2,CC-F3BLJZ,centrale.tchaoudjo.tchaoudjo-2.lama-tessi
+Centrale,Tchaoudjo,Tchaoudjo 3,Aléhéridè,,CM-GMVYFT,CC-SIIVYT,centrale.tchaoudjo.tchaoudjo-3.aleheride
+Centrale,Tchaoudjo,Tchaoudjo 3,Amaïdè,,CM-GMVYFT,CC-Y2KJ46,centrale.tchaoudjo.tchaoudjo-3.amaide
+Centrale,Tchaoudjo,Tchaoudjo 3,Kemeni,,CM-GMVYFT,CC-H5PJTI,centrale.tchaoudjo.tchaoudjo-3.kemeni
+Centrale,Tchaoudjo,Tchaoudjo 3,Kolina,,CM-GMVYFT,CC-O2XXND,centrale.tchaoudjo.tchaoudjo-3.kolina
+Centrale,Tchaoudjo,Tchaoudjo 4,Agoulou,,CM-QPI4D6,CC-L4WCV4,centrale.tchaoudjo.tchaoudjo-4.agoulou
+Centrale,Tchaoudjo,Tchaoudjo 4,Kpassouadè,,CM-QPI4D6,CC-WC3BP6,centrale.tchaoudjo.tchaoudjo-4.kpassouade
+Centrale,Tchaoudjo,Tchaoudjo 4,Wassarabo,,CM-QPI4D6,CC-ENPNEH,centrale.tchaoudjo.tchaoudjo-4.wassarabo
+Savanes,Tone,Tone 1,Bidjenga,,CM-XPQARH,CC-RLULE2,savanes.tone.tone-1.bidjenga
+Savanes,Tone,Tone 1,Dapaong,,CM-XPQARH,CC-ORZUL4,savanes.tone.tone-1.dapaong
+Savanes,Tone,Tone 1,Kourientre,,CM-XPQARH,CC-OMAJTP,savanes.tone.tone-1.kourientre
+Savanes,Tone,Tone 1,Natigou,,CM-XPQARH,CC-I4LRVU,savanes.tone.tone-1.natigou
+Savanes,Tone,Tone 1,Pana,,CM-XPQARH,CC-UBAUFJ,savanes.tone.tone-1.pana
+Savanes,Tone,Tone 1,Poissongui,,CM-XPQARH,CC-ISRHDT,savanes.tone.tone-1.poissongui
+Savanes,Tone,Tone 1,Toaga,,CM-XPQARH,CC-ES5V24,savanes.tone.tone-1.toaga
+Savanes,Tone,Tone 2,Naki-Ouest,,CM-FOKMB3,CC-YPKNCT,savanes.tone.tone-2.naki-ouest
+Savanes,Tone,Tone 2,Namaré,,CM-FOKMB3,CC-GAJ4GT,savanes.tone.tone-2.namare
+Savanes,Tone,Tone 2,Nanergou,,CM-FOKMB3,CC-E3MZQS,savanes.tone.tone-2.nanergou
+Savanes,Tone,Tone 3,Lotogou,,CM-IO6MQ4,CC-TCZZNJ,savanes.tone.tone-3.lotogou
+Savanes,Tone,Tone 3,Nioukpourma,,CM-IO6MQ4,CC-EYNVDK,savanes.tone.tone-3.nioukpourma
+Savanes,Tone,Tone 3,Tami,,CM-IO6MQ4,CC-QKCOBR,savanes.tone.tone-3.tami
+Savanes,Tone,Tone 3,Warkambou,,CM-IO6MQ4,CC-J5UAHC,savanes.tone.tone-3.warkambou
+Savanes,Tone,Tone 4,Kantindi,,CM-ST57MG,CC-RGCKK7,savanes.tone.tone-4.kantindi
+Savanes,Tone,Tone 4,Korbongou,,CM-ST57MG,CC-XQZNCY,savanes.tone.tone-4.korbongou
+Savanes,Tone,Tone 4,Louanga,,CM-ST57MG,CC-G3ZVTZ,savanes.tone.tone-4.louanga
+Savanes,Tone,Tone 4,Sanfatoute,,CM-ST57MG,CC-OSEWLQ,savanes.tone.tone-4.sanfatoute
+Maritime,Vo,Vo 1,Vogan,,CM-UV5JZD,CC-UWSKHD,maritime.vo.vo-1.vogan
+Maritime,Vo,Vo 1,Vo-Koutimé,,CM-UV5JZD,CC-ZPXGUP,maritime.vo.vo-1.vo-koutime
+Maritime,Vo,Vo 2,Agnronkopé,,CM-SOQG3H,CC-XZE4LM,maritime.vo.vo-2.agnronkope
+Maritime,Vo,Vo 2,Togoville,,CM-SOQG3H,CC-UCKLYJ,maritime.vo.vo-2.togoville
+Maritime,Vo,Vo 3,Dagbati,,CM-BBZDKO,CC-Z4P4HP,maritime.vo.vo-3.dagbati
+Maritime,Vo,Vo 3,Dzrékpo,,CM-BBZDKO,CC-ZZIXMP,maritime.vo.vo-3.dzrekpo
+Maritime,Vo,Vo 3,Momé-Hounkpati,,CM-BBZDKO,CC-RCQ35A,maritime.vo.vo-3.mome-hounkpati
+Maritime,Vo,Vo 4,Akoumapé,,CM-MDJ5DV,CC-UT7VJS,maritime.vo.vo-4.akoumape
+Maritime,Vo,Vo 4,Hahotoé,,CM-MDJ5DV,CC-EDJI7F,maritime.vo.vo-4.hahotoe
+Maritime,Vo,Vo 4,Sévagan,,CM-MDJ5DV,CC-CTO2NC,maritime.vo.vo-4.sevagan
+Plateaux,Wawa,Wawa 1,Badou,,CM-TGJMLE,CC-QSWJ2K,plateaux.wawa.wawa-1.badou
+Plateaux,Wawa,Wawa 1,Késsibo,,CM-TGJMLE,CC-4MXSCG,plateaux.wawa.wawa-1.kessibo
+Plateaux,Wawa,Wawa 1,Kpété-Béna,,CM-TGJMLE,CC-CDIHUQ,plateaux.wawa.wawa-1.kpete-bena
+Plateaux,Wawa,Wawa 1,Tomégbé,,CM-TGJMLE,CC-WRJ3ND,plateaux.wawa.wawa-1.tomegbe
+Plateaux,Wawa,Wawa 2,Ekéto,,CM-RH7J4D,CC-M6RLE7,plateaux.wawa.wawa-2.eketo
+Plateaux,Wawa,Wawa 2,Gbadi-N'Kugna,,CM-RH7J4D,CC-2JKA4L,plateaux.wawa.wawa-2.gbadi-n-kugna
+Plateaux,Wawa,Wawa 2,Gobé,,CM-RH7J4D,CC-R2433T,plateaux.wawa.wawa-2.gobe
+Plateaux,Wawa,Wawa 3,Doumé,,CM-S4ZEFR,CC-TPOD6N,plateaux.wawa.wawa-3.doume
+Plateaux,Wawa,Wawa 3,Klabè-Efoukpa,,CM-S4ZEFR,CC-QGDVG4,plateaux.wawa.wawa-3.klabe-efoukpa
+Plateaux,Wawa,Wawa 3,Okou,,CM-S4ZEFR,CC-4RCH4X,plateaux.wawa.wawa-3.okou
+Plateaux,Wawa,Wawa 3,Ounabé,,CM-S4ZEFR,CC-JFUUTZ,plateaux.wawa.wawa-3.ounabe
+Plateaux,Wawa,Wawa 3,Zogbegan,,CM-S4ZEFR,CC-YV3TX4,plateaux.wawa.wawa-3.zogbegan
+Maritime,Yoto,Yoto 1,Amoussimé,,CM-ZUAEI7,CC-TXW3OC,maritime.yoto.yoto-1.amoussime
+Maritime,Yoto,Yoto 1,Kini-Kondji,,CM-ZUAEI7,CC-SGOPWL,maritime.yoto.yoto-1.kini-kondji
+Maritime,Yoto,Yoto 1,Kouvé,,CM-ZUAEI7,CC-7ZTMBN,maritime.yoto.yoto-1.kouve
+Maritime,Yoto,Yoto 1,Tabligbo,,CM-ZUAEI7,CC-U2SP5C,maritime.yoto.yoto-1.tabligbo
+Maritime,Yoto,Yoto 2,Ahépé,,CM-2QXIC3,CC-GOQ3HM,maritime.yoto.yoto-2.ahepe
+Maritime,Yoto,Yoto 2,Tchêkpo,,CM-2QXIC3,CC-3IURHE,maritime.yoto.yoto-2.tchekpo
+Maritime,Yoto,Yoto 2,Zafi,,CM-2QXIC3,CC-GX7LDE,maritime.yoto.yoto-2.zafi
+Maritime,Yoto,Yoto 3,Essè-Godjin,,CM-IPPY3P,CC-4B4M7R,maritime.yoto.yoto-3.esse-godjin
+Maritime,Yoto,Yoto 3,Sédomé,,CM-IPPY3P,CC-K2JLKZ,maritime.yoto.yoto-3.sedome
+Maritime,Yoto,Yoto 3,Tokpli,,CM-IPPY3P,CC-JBSU5X,maritime.yoto.yoto-3.tokpli
+Maritime,Yoto,Yoto 3,Tométy-Kondji,,CM-IPPY3P,CC-ACBOGO,maritime.yoto.yoto-3.tomety-kondji
+Maritime,Zio,Zio 1,Abobo,,CM-AXRGOA,CC-FU5RE7,maritime.zio.zio-1.abobo
+Maritime,Zio,Zio 1,Dalavé,,CM-AXRGOA,CC-MJH4D5,maritime.zio.zio-1.dalave
+Maritime,Zio,Zio 1,Davié,,CM-AXRGOA,CC-F3IPTI,maritime.zio.zio-1.davie
+Maritime,Zio,Zio 1,Djagblé,,CM-AXRGOA,CC-3D6WVN,maritime.zio.zio-1.djagble
+Maritime,Zio,Zio 1,Gbatopé,,CM-AXRGOA,CC-IUGCYS,maritime.zio.zio-1.gbatope
+Maritime,Zio,Zio 1,Gblainvié,,CM-AXRGOA,CC-XNQLFS,maritime.zio.zio-1.gblainvie
+Maritime,Zio,Zio 1,Kpomé,,CM-AXRGOA,CC-P3VEWB,maritime.zio.zio-1.kpome
+Maritime,Zio,Zio 1,Tsévié,,CM-AXRGOA,CC-7NYM6J,maritime.zio.zio-1.tsevie
+Maritime,Zio,Zio 2,Bolou,,CM-5YHVK6,CC-5WFJ6S,maritime.zio.zio-2.bolou
+Maritime,Zio,Zio 2,Kovié,,CM-5YHVK6,CC-5AS7KK,maritime.zio.zio-2.kovie
+Maritime,Zio,Zio 2,Mission-Tové,,CM-5YHVK6,CC-SXQJZZ,maritime.zio.zio-2.mission-tove
+Maritime,Zio,Zio 2,Wli,,CM-5YHVK6,CC-6DRE3J,maritime.zio.zio-2.wli
+Maritime,Zio,Zio 3,Agbélouvé,,CM-45OAAE,CC-RS46PB,maritime.zio.zio-3.agbelouve
+Maritime,Zio,Zio 3,Gamé,,CM-45OAAE,CC-VSRPX5,maritime.zio.zio-3.game
+Maritime,Zio,Zio 4,Gapé-Centre,,CM-FQSC6B,CC-NPAODL,maritime.zio.zio-4.gape-centre
+Maritime,Zio,Zio 4,Gapé-Kpodji,,CM-FQSC6B,CC-FAZC6C,maritime.zio.zio-4.gape-kpodji
+Maritime,Agoe-Nyivé,Agoe-Nyivé 1,Agoe-Nyivé,Adjougba,CC-TIAZPC,LC-EWCSYY,maritime.agoe-nyive.agoe-nyive-1.agoe-nyive.adjougba
+Maritime,Agoe-Nyivé,Agoe-Nyivé 1,Agoe-Nyivé,Adjougba-Sorad,CC-TIAZPC,LC-J2E5FX,maritime.agoe-nyive.agoe-nyive-1.agoe-nyive.adjougba-sorad
+Maritime,Agoe-Nyivé,Agoe-Nyivé 1,Agoe-Nyivé,Agoe Assiyeye,CC-TIAZPC,LC-256WIM,maritime.agoe-nyive.agoe-nyive-1.agoe-nyive.agoe-assiyeye
+Maritime,Agoe-Nyivé,Agoe-Nyivé 1,Agoe-Nyivé,Agoe-Nyivé,CC-TIAZPC,LC-WRHDYP,maritime.agoe-nyive.agoe-nyive-1.agoe-nyive.agoe-nyive
+Maritime,Agoe-Nyivé,Agoe-Nyivé 1,Agoe-Nyivé,Alogope,CC-TIAZPC,LC-A6XEHI,maritime.agoe-nyive.agoe-nyive-1.agoe-nyive.alogope
+Maritime,Agoe-Nyivé,Agoe-Nyivé 1,Agoe-Nyivé,Anome,CC-TIAZPC,LC-5BHS6H,maritime.agoe-nyive.agoe-nyive-1.agoe-nyive.anome
+Maritime,Agoe-Nyivé,Agoe-Nyivé 1,Agoe-Nyivé,Apelebime,CC-TIAZPC,LC-PSGUID,maritime.agoe-nyive.agoe-nyive-1.agoe-nyive.apelebime
+Maritime,Agoe-Nyivé,Agoe-Nyivé 1,Agoe-Nyivé,Assiyeye,CC-TIAZPC,LC-ZCFMSA,maritime.agoe-nyive.agoe-nyive-1.agoe-nyive.assiyeye
+Maritime,Agoe-Nyivé,Agoe-Nyivé 1,Agoe-Nyivé,Atsanve,CC-TIAZPC,LC-E3W7LA,maritime.agoe-nyive.agoe-nyive-1.agoe-nyive.atsanve
+Maritime,Agoe-Nyivé,Agoe-Nyivé 1,Agoe-Nyivé,Aveyme,CC-TIAZPC,LC-DAC4M7,maritime.agoe-nyive.agoe-nyive-1.agoe-nyive.aveyme
+Maritime,Agoe-Nyivé,Agoe-Nyivé 1,Agoe-Nyivé,Cacaveli,CC-TIAZPC,LC-REWKSK,maritime.agoe-nyive.agoe-nyive-1.agoe-nyive.cacaveli
+Centrale,Tchaoudjo,Tchaoudjo 1,Tchalo,Adjorogo,CC-NW2DKC,LC-ITYUS2,centrale.tchaoudjo.tchaoudjo-1.tchalo.adjorogo
+Centrale,Tchaoudjo,Tchaoudjo 1,Tchalo,Bavile,CC-NW2DKC,LC-74SFGN,centrale.tchaoudjo.tchaoudjo-1.tchalo.bavile
+Centrale,Tchaoudjo,Tchaoudjo 1,Tchalo,Kpalafoulassi,CC-NW2DKC,LC-WPON2D,centrale.tchaoudjo.tchaoudjo-1.tchalo.kpalafoulassi
+Centrale,Tchaoudjo,Tchaoudjo 1,Tchalo,Tchalo,CC-NW2DKC,LC-SJQEO5,centrale.tchaoudjo.tchaoudjo-1.tchalo.tchalo
+Centrale,Tchaoudjo,Tchaoudjo 2,Lama-Tessi,Abatchang,CC-F3BLJZ,LC-VX75XA,centrale.tchaoudjo.tchaoudjo-2.lama-tessi.abatchang
+Centrale,Tchaoudjo,Tchaoudjo 2,Lama-Tessi,Alfa-Kpirou,CC-F3BLJZ,LC-4J2E5H,centrale.tchaoudjo.tchaoudjo-2.lama-tessi.alfa-kpirou
+Centrale,Tchaoudjo,Tchaoudjo 2,Lama-Tessi,Aou-Losso,CC-F3BLJZ,LC-GL2X4D,centrale.tchaoudjo.tchaoudjo-2.lama-tessi.aou-losso
