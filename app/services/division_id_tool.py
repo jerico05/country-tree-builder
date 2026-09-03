@@ -61,7 +61,7 @@ def generate_sql_inserts(input_file, output_file):
             prefix = PREFIX_MAP.get(type_slug)
             
             if not prefix:
-                print(f"❌ Type de division inconnu: '{type_slug}'. Veuillez mettre à jour le tableau de correspondance.")
+                print(f"Type de division inconnu: '{type_slug}'. Veuillez mettre à jour le tableau de correspondance.")
                 sys.exit(1)
             
             parent_type_id = level if level > 0 else 'null'
@@ -159,7 +159,7 @@ def generate_sql_inserts(input_file, output_file):
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(sql)
     
-    print(f"✅ Script SQL généré : {output_file}")
+    print(f"Script SQL généré : {output_file}")
 
 def process_csv(input_file, output_file):
     enriched_rows = []
@@ -192,7 +192,7 @@ def process_csv(input_file, output_file):
             type_slug = slugify(type_name, separator="-", lowercase=True)
             prefix = PREFIX_MAP.get(type_slug)
             if not prefix:
-                print(f"❌ Type de division inconnu: '{type_slug}'. Veuillez mettre à jour le tableau de correspondance.")
+                print(f"Type de division inconnu: '{type_slug}'. Veuillez mettre à jour le tableau de correspondance.")
                 sys.exit(1)
 
             division_id, slug = generate_division_id(prefix, path_array, '-')
@@ -228,19 +228,19 @@ def process_csv(input_file, output_file):
             writer.writeheader()
             writer.writerows(enriched_rows)
             
-        print(f"✅ Fichier généré : {output_file}")
+        print(f" Fichier généré : {output_file}")
     else:
-        print("⚠️ Aucun enregistrement valide trouvé.")
+        print("Aucun enregistrement valide trouvé.")
 
 if __name__ == "__main__":
     # Check for SQL mode
     if '--sql' in sys.argv:
         sql_index = sys.argv.index('--sql')
-        infile = sys.argv[sql_index + 1] if len(sys.argv) > sql_index + 1 else "data.csv"
-        outfile = sys.argv[sql_index + 2] if len(sys.argv) > sql_index + 2 else "inserts.sql"
+        infile = sys.argv[sql_index + 1] if len(sys.argv) > sql_index + 1 else "../data/data.csv"
+        outfile = sys.argv[sql_index + 2] if len(sys.argv) > sql_index + 2 else "../data/inserts.sql"
         generate_sql_inserts(infile, outfile)
     else:
         # CSV mode
-        infile = sys.argv[1] if len(sys.argv) > 1 else "data.csv"
-        outfile = sys.argv[2] if len(sys.argv) > 2 else "output.csv"
+        infile = sys.argv[1] if len(sys.argv) > 1 else "../data/data.csv"
+        outfile = sys.argv[2] if len(sys.argv) > 2 else "../data/output.csv"
         process_csv(infile, outfile)
